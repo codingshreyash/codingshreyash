@@ -6,7 +6,7 @@
 
 <p>I have been employed by the world's largest defense contractor, Lockheed Martin. Over the past two years, I've worked as a Software Engineering Intern. During my internship, I worked on Rotary and Mission Systems IT Web Applications, and later, I transitioned into a role as a Cyber-Software Engineering Intern, where I supported the protection of Lockheed Martin's Cloud Service Providers.</p>
 
-<p>I have a genuine passion for computer science and enjoy problem-solving. Please check out my resume and portfolio tabs to learn more about the work I've done. Thank you for visiting my GitHub, and feel free to get in touch anytime!</p>
+<p>I have a genuine passion for computer science and enjoy problem-solving. Please check out my personal website linked below to view my resume and portfolio tabs to learn more about the work I've done. Thank you for visiting my GitHub, and feel free to get in touch anytime!</p>
 
 
 ---
