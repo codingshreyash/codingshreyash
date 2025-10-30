@@ -2,14 +2,7 @@
 
 **`Software Engineer`**
 
-<p>Hi, my name is Shreyash! I'm a Software Engineer based out of Philadelphia, PA, currently studying at the University of Pittsburgh pursuing a BS in Computer Science and a minor in Statistics.</p>
-
-<p>I have been employed by the world's largest defense contractor, Lockheed Martin. Over the past two years, I've worked as a Software Engineering Intern. During my internship, I worked on Rotary and Mission Systems IT Web Applications, and later, I transitioned into a role as a Cyber-Software Engineering Intern, where I supported the protection of Lockheed Martin's Cloud Service Providers. </p>
-
-<p>This upcoming Summer (2024) I will be switching companies to join Vanguard out of their head quarters in Malvern PA. Supporting their Risk and Security team. </p>
-
-<p>I have a genuine passion for computer science and enjoy problem-solving. Please check out my personal website linked below to view my resume and portfolio tabs to learn more about the work I've done. Thank you for visiting my GitHub, and feel free to get in touch anytime!</p>
-
+<p>Hi, my name is Shreyash!</p>
 
 ---
 
