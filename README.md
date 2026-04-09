@@ -2,7 +2,6 @@
 
 **`Software Engineer`**
 
-<p>Hi, my name is Shreyash!</p>
 
 ---
 
