@@ -69,6 +69,6 @@ Currently finishing my CS degree at Pitt and looking for **new-grad SWE opportun
 
 [![Email](https://img.shields.io/badge/Email-shreyashran%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyashran@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shreyash--ranjan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyash-ranjan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-codingshreyash.github.io-4F8EF7?style=for-the-badge&logo=github&logoColor=white)](https://shreyash-ranjan.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shreyash-ranjan.com-4F8EF7?style=for-the-badge&logo=github&logoColor=white)](https://shreyash-ranjan.com/)
 
 </div>
