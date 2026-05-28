@@ -10,7 +10,7 @@ Currently finishing my CS degree at Pitt and looking for **new-grad SWE opportun
 <tr>
   <td><strong>May 2026 — Aug 2026</strong></td>
   <td><strong>NVIDIA</strong></td>
-  <td>Software Engineer Intern • Security/IAM</td>
+  <td>Software Engineer Intern • Security Research</td>
   <td><em>CA</em></td>
 </tr>
 <tr>
